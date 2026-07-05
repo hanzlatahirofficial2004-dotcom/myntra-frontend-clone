@@ -1,6 +1,8 @@
 # 🛍️ Myntra Frontend UI Clone
 
 A high-fidelity, pixel-perfect frontend clone of the **Myntra E-commerce web platform**. This project showcases advanced layout design, component structures, dynamic badge systems, and clean styling to replicate a production-level retail experience.
+<img width="1916" height="870" alt="image" src="https://github.com/user-attachments/assets/356cc811-77af-418d-a4ff-9ed36fdce669" />
+
 
 ---
 
