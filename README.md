@@ -20,6 +20,7 @@ A high-fidelity, pixel-perfect frontend clone of the **Myntra E-commerce web pla
 * **Markup:** HTML5 (Semantic headers, sections, grids, and descriptive image components)
 * **Styling:** CSS3 (Advanced text-decorations for pricing models, flex distributions, hover transitions, and badge absolute positioning)
 * **Interactivity:** JavaScript (Handles dynamic data structure parsing for the catalog and interface states)
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/8243c50f-f635-4208-b5d6-44aa21f58ede" />
 
 ---
 
