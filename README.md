@@ -11,6 +11,8 @@ A high-fidelity, pixel-perfect frontend clone of the **Myntra E-commerce web pla
 * **Smart UI Components:** Includes hover effects, custom "Add to Bag" action buttons, star-rating displays with user review counts, and a standard global navigation header.
 * **Modern CSS Architectures:** Heavily utilizes Flexbox and CSS Grid alignments to ensure cards grid wraps gracefully across different viewports.
 * **Clean & Semantic Codebase:** Written with scalability in mind, using structured CSS classes and reusable logic layouts.
+* <img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/a614d58e-9b93-43c6-a447-bdcdc1b0db8e" />
+
 
 ---
 
